@@ -13,4 +13,4 @@
   }
   print json_encode($rows);
 
-?>
+?
